@@ -1,0 +1,16 @@
+{
+    "name": "上海电气一期",
+    "version": "0.1.0",
+    "description": "项目接口文档",
+    "title": "Custom apiDoc browser title",
+    "header": {
+        "title": "文档开始"
+    },
+    "footer": {
+        "title": "文档结束"
+    },
+    "template": {
+        "withCompare": true,
+        "withGenerator": true
+    }
+}
